@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi Devs 👋
 
-
-**diegoFelipeDev/diegoFelipeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+some information about me:
 
 - 🔭 I’m currently working on pessoal projects; 
 - 🌱 I’m currently learning reactjs and english;
@@ -12,3 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about HTML, CSS, Javascript, Git and people management;
 - 📫 How to reach me: https://www.linkedin.com/in/diego-felipe-da-silva-b21289206/;
 - ⚡ Fun fact: I use all the settings for everything in English, even though I don't know the language yet lol.
+
