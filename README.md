@@ -9,17 +9,23 @@ Some information about me:
 - 🌱 I’m currently learning reactjs and english;
 - 👯 I’m looking to collaborate on with the github community;
 - 🤔 I’m looking for help with experience to my first job;
-- 💬 Ask me about HTML, CSS, Javascript, Git and people management;
+- 💬 Ask me about HTML, CSS, Javascript, Git, PHP and people management;
 - 📫 How to reach me: https://www.linkedin.com/in/diego-felipe-da-silva-b21289206/;
 - ⚡ Fun fact: I use all the settings for everything in English, even though I don't know the language yet lol.
 
 ## Ferramentas e Tecnologias
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  
 ## Estou aprendendo
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
+
+##My Statics
 
 <div>
 <a href="https://github.com/diegoFelipeDev">
