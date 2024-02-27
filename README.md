@@ -13,7 +13,7 @@ Some information about me:
 - 📫 How to reach me: https://www.linkedin.com/in/diego-felipe-da-silva-b21289206/;
 - ⚡ Fun fact: I use all the settings for everything in English, even though I don't know the language yet lol.
 
-## Ferramentas e Tecnologias
+## Tools and technologies
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -21,11 +21,11 @@ Some information about me:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
   
-## Estou aprendendo
+## I am learning
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/> 
 
-##My Statics
+## My Statics
 
 <div>
 <a href="https://github.com/diegoFelipeDev">
