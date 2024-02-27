@@ -13,3 +13,12 @@ Some information about me:
 - 📫 How to reach me: https://www.linkedin.com/in/diego-felipe-da-silva-b21289206/;
 - ⚡ Fun fact: I use all the settings for everything in English, even though I don't know the language yet lol.
 
+
+
+
+
+<div>
+<a href="https://github.com/diegoFelipeDev">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoFelipeDev&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoFelipeDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
