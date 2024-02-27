@@ -1,6 +1,6 @@
 ### Hi Devs 👋
 
-some information about me:
+Some information about me:
 
 - 🔭 I’m currently working on pessoal projects; 
 - 🌱 I’m currently learning reactjs and english;
