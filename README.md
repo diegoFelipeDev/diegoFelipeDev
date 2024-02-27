@@ -1,7 +1,7 @@
-### Hi Devs 👋
+# Hi Devs 👋
 
-# Welcome to my Github profile.
-## My name is Diego Felipe da Silva, but you can call me Diego Felipe!
+Welcome to my Github profile.
+My name is Diego Felipe da Silva, but you can call me Diego Felipe!
 
 Some information about me:
 
