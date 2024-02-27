@@ -13,9 +13,13 @@ Some information about me:
 - 📫 How to reach me: https://www.linkedin.com/in/diego-felipe-da-silva-b21289206/;
 - ⚡ Fun fact: I use all the settings for everything in English, even though I don't know the language yet lol.
 
+## Ferramentas e Tecnologias
 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
+## Estou aprendendo
 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 <div>
 <a href="https://github.com/diegoFelipeDev">
