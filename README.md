@@ -30,4 +30,4 @@ Some information about me:
 </div>
 <br>
 
-- Thanks for visiting
+# Thanks for visiting
