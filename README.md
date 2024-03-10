@@ -34,6 +34,6 @@ Some information about me:
 </div>
 <br>
 
-/* ![Snake animation](https://github.com/diegoFelipeDev/diegoFelipeDev/blob/output/github-contribution-grid-snake.svg) */
+<!-- ![Snake animation](https://github.com/diegoFelipeDev/diegoFelipeDev/blob/output/github-contribution-grid-snake.svg) -->
 
 # Thanks for visiting
