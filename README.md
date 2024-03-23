@@ -37,3 +37,4 @@ Some information about me:
 <!-- ![Snake animation](https://github.com/diegoFelipeDev/diegoFelipeDev/blob/output/github-contribution-grid-snake.svg) -->
 
 # Thanks for visiting
+ 
