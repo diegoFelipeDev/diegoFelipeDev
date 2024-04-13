@@ -6,7 +6,7 @@ My name is Diego Felipe da Silva, but you can call me Diego Felipe!
 Some information about me:
 
 - 🔭 I’m currently working on pessoal projects; 
-- 🌱 I’m currently learning Reactjs, Laravel and English;
+- 🌱 I’m currently learning Python and English;
 - 👯 I’m looking to collaborate on with the github community;
 - 🤔 I’m looking for help with experience to my first job;
 - 💬 Ask me about HTML, CSS, Javascript, Git, PHP and people management;
