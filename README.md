@@ -34,4 +34,3 @@ Some information about me:
 </div>
 
 # Thanks for visiting
- 
